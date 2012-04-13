@@ -59,6 +59,30 @@
 			* **Communication deficiency:** The biggest disadvantage that any virtual team can suffer from is the lack of efficiency in communication, partly due to constraints in virtual communication mediums. This is also primarily due to the fact that humans communicate better when they are able to communicate with their body language.[50] Inevitably, virtual teams may face obstacles due to restrictions of the Internet which in turn may lead to incorrect assumptions if a message is not laid out clearly. Failure to properly communicate and clearly address messages or emails could to lead to frustration and eventually failure.
 			* **Poor leadership and management:** Poor leadership can result in the failure of any team, whether virtual or not; however, it becomes a much more prominent problem in virtual teams. Messages must be sent across accurately and clearly. Inability to effectively communicate to members of the team can all greatly affect a project.
 			* **Incompetent team members:** Virtual teams should only consist of competent and experienced team members due to the distance factor which can overtly affect the timing and completion date of a project. Projects are more likely to fail if the team consists of individuals who are lazy or lack sufficient knowledge to complete their assigned tasks. It only takes one incompetent team member to have a negative effect on the rest of the team.
+* Software
+	* Skype
+		* easy communication
+		* create project chat rooms
+		* video chat
+		* group calls
+		* 1 on 1 screen share
+	* Go-To-Meeting
+		* Client Communications
+		* Conference line
+		* Multiperson desktop share
+	* Our own Etherpad instance
+		* Quick collaboration
+		* authenticated for security
+	* Github
+		* Code Collaboration
+		* Brainstorming
+			* create a private repo and use issues to discuss ideas
+	* Google Apps for Domains
+		* Docs
+		* Mail 
+		* calendar
+	
+
 		
 			 
 	
