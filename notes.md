@@ -80,8 +80,30 @@
 		* Docs
 		* Mail 
 		* calendar
-	
-
+* Hardware
+	* Virtual PBX from 2600 HZ
+		* Phone plugs into ethernet
+		* Management can manage through web admin tools. 
+		* Phones are auto updated. 
+		* everyone has their own extension
+* How has this affected me personally?
+	* Save a ton of money on gas
+		* no commute
+	* I hardly eat out for lunch 
+	* I have the freedom to run my son to rugby Practice.
+		* before I'd have to take a bus to work so my wife could have the car
+	* My wife can make dinner and we all eat together
+		* my supper is always warm.
+	* Winters are hard though.
+		* I get terrible winter blues
+		* I try to offset it with traveling for work.
+			* jQuery UK
+			* training in Albuquerque, NM
+			* Vacation in Hawaii
+	* Work were I want. 
+		* Outside
+		* in a coffee shop
+		* whereever
 		
 			 
 	
