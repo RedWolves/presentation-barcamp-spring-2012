@@ -6,7 +6,7 @@
 	* You get enough remote workers working together it's called a virtual team 
 	* a collection of virtual teams make up a virtual company
 * appendTo
-	* Start-up founded in 2010 
+	* Start-up founded in 2009 
 		* Front-end Development (HTML5, JavaScript, jQuery)
 		* Onsite & Remote Training
 		* Founded by jQuery Team Members
@@ -23,7 +23,7 @@
 		* Persistent Video Portal Office mate 
 		* Embodied Social Proxy
 	* In a virtual company we're all remote so no one is feeling left out.
-	* common problems
+	* [common problems](http://telecommutingjournal.com/7-common-work-at-home-challenges/347)
 		* time management
 		* IT Maintenance 
 		* Child care
@@ -48,7 +48,6 @@
 		* IT 
 			* We're responsible for our own hardware and software.
 				* but we aren't told what to buy
-
 * Challenges of Virtual Teams
 	* [http://en.wikipedia.org/wiki/Virtual_Teams](http://en.wikipedia.org/wiki/Virtual_Teams)
 		* Advantages
